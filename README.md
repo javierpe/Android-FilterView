@@ -1,4 +1,4 @@
-# Android FilterView 
+# Android FilterView (In Testing)
 [![](https://jitpack.io/v/FranciscoJavierPRamos/Android-FilterView.svg)](https://jitpack.io/#FranciscoJavierPRamos/Android-FilterView)
 
 Build a simple filter view with customizable controls.
