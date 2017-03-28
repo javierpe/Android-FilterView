@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="recurrence_freq">
+        <item>按小时重复</item>
+        <item>按天重复</item>
+        <item>按星期重复</item>
+        <item>按月份重复</item>
+        <item>按年份重复</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>每月第一个周五</item>
+        <item>每月第二个周五</item>
+        <item>每月第三个周五</item>
+        <item>每月第四个周五</item>
+        <item>每月最后一个周五</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>每月第一个周一</item>
+        <item>每月第二个周一</item>
+        <item>每月第三个周一</item>
+        <item>每月第四个周一</item>
+        <item>每月最后一个周一</item>
+
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>每月第一个周六</item>
+        <item>每月第二个周六</item>
+        <item>每月第三个周六</item>
+        <item>每月第四个周六</item>
+        <item>每月最后一个周六</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>每月第一个周日</item>
+        <item>每月第二个周日</item>
+        <item>每月第三个周日</item>
+        <item>每月第四个周日</item>
+        <item>每月最后一个周日</item>
+     
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>每月第一个周四</item>
+        <item>每月第二个周四</item>
+        <item>每月第三个周四</item>
+        <item>每月第四个周四</item>
+        <item>每月最后一个周四</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>每月第一个周二</item>
+        <item>每月第二个周二</item>
+        <item>每月第三个周二</item>
+        <item>每月第四个周二</item>
+        <item>每月最后一个周二</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>每月第一个周三</item>
+        <item>每月第二个周三</item>
+        <item>每月第三个周三</item>
+        <item>每月第四个周三</item>
+        <item>每月最后一个周三</item>
+    </string-array>
+    <plurals name="daily">
+        <item quantity="one">日常</item>
+        <item quantity="other">每 <ns1:g id="number">%d</ns1:g> 天</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; 一次</item>
+        <item quantity="other">; 执行 <ns1:g id="number">%d</ns1:g> 次</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">执行  <ns1:g id="event_count">%d</ns1:g> 次</item>
+        <item quantity="other">执行 <ns1:g id="event_count">%d</ns1:g> 次</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 天</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 天</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 月</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 月</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 周</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 周</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 年</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 年</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">每周的 <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">每 <ns1:g id="number">%1$d</ns1:g> 周的 <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string name="acessibility_recurrence_choose_end_date_description">改变截至日期</string>
+    <string name="day_c">天</string>
+    <string name="day_picker_description">表格按月选择天</string>
+    <string name="deleted_key">%1$s已删除</string>
+    <string name="done_label">完成</string>
+    <string name="endByDate">; 直到 <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"每个工作日 (周一\u2013周五)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">输入国家名称</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">滑动选择小时</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">小时</string>
+    <string name="item_is_selected">%1$s已选</string>
+    <string name="max_error">请输入一个数字小于或等于 %1$s</string>
+    <string name="min_error">请输入一个数字大于或等于 %1$s</string>
+    <string name="min_max_error">请输入一个数字在 %1$s 和 %2$s 之间</string>
+    <string name="minute_picker_description">滑动选择分钟</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">分钟</string>
+    <string name="month_c">月</string>
+    <string name="monthly">月份</string>
+    <string name="no_results_found">没有找到结果</string>
+    <string name="number_delete">删除</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">巴勒斯坦</string>
+    <string name="picker_cancel">取消</string>
+    <string name="picker_set">确认</string>
+    <string name="recurrence_end_continously">永久</string>
+    <string name="recurrence_end_count_label">事件发生几次后</string>
+    <string name="recurrence_end_date">直到 <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">直到</string>
+    <string name="recurrence_month_pattern_by_day">每个月的同一天</string>
+    <string name="save_label">完成</string>
+    <string name="searchview_description_clear">清空查询</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">秒</string>
+    <string name="select_day">选择日期</string>
+    <string name="select_hours">选择小时</string>
+    <string name="select_minutes">选择分钟</string>
+    <string name="select_year">选择年</string>
+    <string name="switch_off">关</string>
+    <string name="switch_on">开</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">删除</string>
+    <string name="year_c">年</string>
+    <string name="year_picker_description">年份列表</string>
+    <string name="yearly_plain">年份</string>
+</resources>

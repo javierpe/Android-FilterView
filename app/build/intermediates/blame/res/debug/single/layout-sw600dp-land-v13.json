@@ -12,15 +12,39 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/date_picker_dialog.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/expiration_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/expiration_picker_dialog.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/calendar_date_picker_dialog.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/number_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/hms_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/hms_picker_dialog.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/hms_picker_dialog.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/hms_picker_dialog.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/time_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/time_picker_dialog.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/time_picker_dialog.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-sw600dp-land-v13/calendar_date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-land-v13/calendar_date_picker_dialog.xml"
     }
 ]

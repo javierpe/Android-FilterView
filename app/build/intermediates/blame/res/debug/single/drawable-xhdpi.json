@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
+        "source": "/Users/usuario/.android/build-cache/b5a88cfef0529b9716711e6f31d32d95f46c86c7/output/res/drawable-xhdpi/met_ic_clear.png"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
         "source": "/Users/usuario/.android/build-cache/b5a88cfef0529b9716711e6f31d32d95f46c86c7/output/res/drawable-xhdpi/met_ic_clear.png"
     }

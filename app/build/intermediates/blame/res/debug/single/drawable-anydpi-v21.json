@@ -2,5 +2,9 @@
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/drawable-anydpi-v21/md_nav_back.xml"
     }
 ]

@@ -4,8 +4,20 @@
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-v14/md_stub_progress.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",

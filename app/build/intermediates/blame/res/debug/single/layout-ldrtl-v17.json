@@ -4,7 +4,15 @@
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
     }
 ]

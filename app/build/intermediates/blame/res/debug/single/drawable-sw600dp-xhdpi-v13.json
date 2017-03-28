@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png"
     },
@@ -8,11 +12,23 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_light.png"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_light.png"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-sw600dp-xhdpi-v13/ic_backspace_disabled_dark.png"
     }
 ]

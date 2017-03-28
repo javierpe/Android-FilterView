@@ -1,21 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:3:5-29
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [app:filterview:unspecified] /Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [app:filterview:unspecified] /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.medyo:fancybuttons:1.8.3] /Users/usuario/.android/build-cache/00999c0011247bd1c3911a5eefb88aae67bffe48/output/AndroidManifest.xml:11:5-20
 MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/AndroidManifest.xml:13:5-20
 MERGED from [com.crystal:crystalrangeseekbar:1.1.1] /Users/usuario/.android/build-cache/4c693eb7e5102e7a7ea63043da0a4e770bada52c/output/AndroidManifest.xml:11:5-15:19
@@ -30,34 +30,34 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/usuario
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/usuario/.android/build-cache/9b65a8c415b5a741aea486a70eac1fa8ba99e7f3/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/usuario/.android/build-cache/a797dc465510d0ddc89711c1ed710c22360cac6f/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.javier.app.MainActivity
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [app:filterview:unspecified] /Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [app:filterview:unspecified] /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.code-troopers.betterpickers:library:3.1.0] /Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.medyo:fancybuttons:1.8.3] /Users/usuario/.android/build-cache/00999c0011247bd1c3911a5eefb88aae67bffe48/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/usuario/.android/build-cache/b5a88cfef0529b9716711e6f31d32d95f46c86c7/output/AndroidManifest.xml:6:5-8:41
@@ -78,11 +78,11 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/usuario/.android/
 	tools:overrideLibrary
 		ADDED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Downloads/omim-master/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/usuario/.android/build-cache/9c4ad0e5cc1a1b26981626cff2aa6044de281bc4/output/AndroidManifest.xml:25:5-27:34

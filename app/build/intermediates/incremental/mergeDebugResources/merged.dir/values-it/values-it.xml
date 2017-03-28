@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="day_c">GIORNO</string>
+    <string name="day_picker_description">Griglia mensile dei giorni</string>
+    <string name="deleted_key">%1$s eliminato</string>
+    <string name="done_label">Fine</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Cursore circolare delle Ore</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">ore</string>
+    <string name="item_is_selected">%1$s selezionato</string>
+    <string name="max_error">Inserisci un numero uguale o minore di %1$s</string>
+    <string name="min_error">Inserisci un numero uguale o maggiore di %1$s</string>
+    <string name="min_max_error">Inserisci un numero compreso tra %1$s e %2$s</string>
+    <string name="minute_picker_description">Cursore circolare dei Minuti</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minuti</string>
+    <string name="month_c">MESE</string>
+    <string name="number_delete">Elimina</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="picker_cancel">Annulla</string>
+    <string name="picker_set">OK</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">secondi</string>
+    <string name="select_day">Seleziona Mese e Giorno</string>
+    <string name="select_hours">Seleziona le Ore</string>
+    <string name="select_minutes">Seleziona i Minuti</string>
+    <string name="select_year">Seleziona Anno</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Elimina</string>
+    <string name="year_c">ANNO</string>
+    <string name="year_picker_description">Lista Anno</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="daily">
+        <item quantity="one">Diariamente</item>
+        <item quantity="other">A cada <ns1:g id="number">%d</ns1:g> dias</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; uma vez</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> vezes</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Por <ns1:g id="event_count">%d</ns1:g> evento</item>
+        <item quantity="other">Por <ns1:g id="event_count">%d</ns1:g> eventos</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">A cada <ns1:g id="count">%d</ns1:g> dia</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">A cada <ns1:g id="count">%d</ns1:g> dias</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">A cada <ns1:g id="count">%d</ns1:g> mês</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">A cada <ns1:g id="count">%d</ns1:g> meses</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">A cada <ns1:g id="count">%d</ns1:g> semana</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">A cada <ns1:g id="count">%d</ns1:g> semanas</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">A cada <ns1:g id="count">%d</ns1:g> ano</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">A cada <ns1:g id="count">%d</ns1:g> anos</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Toda semana, <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">A cada <ns1:g id="number">%1$d</ns1:g> semanas, <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">mudar data final</string>
+    <string name="day_c">DIA</string>
+    <string name="day_picker_description">Grade mensal de dias</string>
+    <string name="deleted_key">%1$s deletado</string>
+    <string name="done_label">Concluído</string>
+    <string name="endByDate">; até <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Todo dia útil (Seg\u2013Sex)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Digite o nome do país</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Cursor circular de horas</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">horas</string>
+    <string name="item_is_selected">%1$s selecionado</string>
+    <string name="max_error">Insira um número menor ou igual a %1$s</string>
+    <string name="min_error">Insira um número maior ou igual a %1$s</string>
+    <string name="min_max_error">Insira um número entre %1$s e %2$s</string>
+    <string name="minute_picker_description">Cursor circular de minutos</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minutos</string>
+    <string name="month_c">MÊS</string>
+    <string name="monthly">Mensalmente</string>
+    <string name="no_results_found">Nenhum resultado encontrado</string>
+    <string name="number_delete">Deletar</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">,</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Cancelar</string>
+    <string name="picker_set">OK</string>
+    <string name="recurrence_end_continously">Para sempre</string>
+    <string name="recurrence_end_count_label">Por um número de eventos</string>
+    <string name="recurrence_end_date">Até <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Até uma data</string>
+    <string name="recurrence_month_pattern_by_day">todo dia a cada mês</string>
+    <string name="save_label">Concluído</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="searchview_description_clear">Limpar busca</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">segundos</string>
+    <string name="select_day">Selecione mês e dia</string>
+    <string name="select_hours">Selecione a hora</string>
+    <string name="select_minutes">Selecione os minutos</string>
+    <string name="select_year">Selecione o ano</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switch_off">DESLIGADO</string>
+    <string name="switch_on">LIGADO</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Deletar</string>
+    <string name="year_c">ANO</string>
+    <string name="year_picker_description">Lista de anos</string>
+    <string name="yearly_plain">Anualmente</string>
+</resources>

@@ -1,111 +1,123 @@
 [
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/filter_view.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/filter_view.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_list_check.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
-        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/time_zone_filter_item.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_zone_filter_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/timezonepickerview.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/timezonepickerview.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/number_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/radial_time_header_label.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_header_label.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_input_check.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_input_check.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/slider_option_item.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/slider_option_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_header_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_picker_dialog.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_search_view.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_view_animator.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_view_animator.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_end_text.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/hms_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/hms_picker_dialog.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
-        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/layout_ok_cancel_buttons.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/layout_ok_cancel_buttons.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard_right_drawable_with_header.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/time_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_picker_view.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_media_custom.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_text.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_text.xml"
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_custom.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_dialog.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_text.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/hms_picker_view.xml",
@@ -116,40 +128,40 @@
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_input.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/date_picker_view.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_view.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/empty_time_zone_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/empty_time_zone_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_header_view.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_header_view.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
-        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_actionbuttons.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_titleframe.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/extra_option_item.xml",
         "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/extra_option_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/tag_option_item.xml",
-        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/tag_option_item.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/number_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/number_picker_view.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_right_drawable_with_header.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/radial_time_header_label.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_header_label.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_text_with_header.xml",
@@ -164,52 +176,24 @@
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_freq_item.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/number_picker_dialog.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/number_picker_dialog.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/single_option_item.xml",
         "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/single_option_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/time_picker_view.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_picker_view.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -220,10 +204,6 @@
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem_multichoice.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_right_drawable.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_right_drawable.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_list.xml"
     },
@@ -232,24 +212,28 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/number_picker_view.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_text.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_text.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard_text_with_header.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_text_with_header.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_with_header.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_with_header.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_leftright.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_leftright.xml"
-    },
-    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/slider_option_item.xml",
         "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/slider_option_item.xml"
-    },
-    {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/filter_view.xml",
-        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/filter_view.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view.xml",
@@ -264,12 +248,16 @@
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress_indeterminate.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_year_label_text_view.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_year_label_text_view.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_input.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
-        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_basic.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/timezonepickerview.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/timezonepickerview.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
@@ -280,32 +268,400 @@
         "source": "/Users/usuario/Downloads/omim-master/app/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/hms_picker_dialog.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/hms_picker_dialog.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_basic.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_list_check.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_simple.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_titleframe.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/radial_time_picker_dialog.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_picker_dialog.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/empty_time_zone_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/empty_time_zone_item.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/empty_time_zone_item.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/empty_time_zone_item.xml"
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_selected_date.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_right_drawable.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/chip.xml",
+        "source": "/Users/usuario/.android/build-cache/e44d7e16c7b42a17b55eb4b7b60f255e09756dad/output/res/layout/chip.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard_right_drawable.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/layout_ok_cancel_buttons.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/date_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/timezonepickerview.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/timezonepickerview.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/radial_time_header_label.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_end_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/single_option_item.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/single_option_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/layout_ok_cancel_buttons.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/calendar_year_label_text_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard_with_header.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_with_header.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/date_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/date_picker_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_header_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/tag_option_item.xml",
+        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/tag_option_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker_freq_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/time_zone_filter_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_zone_filter_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/number_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/recurrencepicker.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/recurrencepicker.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/time_zone_item.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_zone_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/extra_option_item.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/extra_option_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_right_drawable.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_dialog_input_check.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_input_check.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_leftright.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/keyboard_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_leftright.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/filter_view.xml",
+        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/filter_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/three_keys_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_year_label_text_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/hms_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/hms_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/expiration_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/radial_time_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/keyboard.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/keyboard.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -316,12 +672,24 @@
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/time_picker_dialog.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/filter_section.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/filter_section.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_selected_date.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_selected_date.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/tag_option_item.xml",
+        "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/layout/tag_option_item.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_right_drawable.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/expiration_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/expiration_picker_view.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/time_zone_item.xml",
@@ -336,12 +704,20 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/expiration_picker_dialog.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/three_keys_view_right_drawable.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/three_keys_view_right_drawable.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/hms_picker_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/hms_picker_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -356,12 +732,20 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/expiration_picker_view.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -372,12 +756,12 @@
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_view_animator.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/filter_section.xml",
-        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/filter_section.xml"
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_dialog.xml"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/filter_section.xml",
+        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/layout/filter_section.xml"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -388,7 +772,15 @@
         "source": "/Users/usuario/.android/build-cache/e44d7e16c7b42a17b55eb4b7b60f255e09756dad/output/res/layout/chip.xml"
     },
     {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/radial_time_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/radial_time_picker_dialog.xml"
+    },
+    {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
         "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/layout/calendar_date_picker_selected_date.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout/calendar_date_picker_selected_date.xml"
     }
 ]

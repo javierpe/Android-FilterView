@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="daily">
+        <item quantity="one">Diari</item>
+        <item quantity="other">Cada <ns1:g id="number">%d</ns1:g> dies</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; una vegada</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> vegades</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Per <ns1:g id="event_count">%d</ns1:g> vegades</item>
+        <item quantity="other">Per <ns1:g id="event_count">%d</ns1:g> vegades</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> dia</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> dies</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> mes</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> mesos</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> setmana</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> setmanes</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> any</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> anys</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Setmenal els <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Cada <ns1:g id="number">%1$d</ns1:g> setmanes els <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Comparteix amb %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">cambiar la data final</string>
+    <string name="day_c">DIA</string>
+    <string name="day_picker_description">Graella mensual</string>
+    <string name="deleted_key">%1$s esborrat</string>
+    <string name="done_label">Fet</string>
+    <string name="endByDate">; fins <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Tots els dies de la setmana (Dl\u2013Dv)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Nom del país</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Slider d\'hores circular</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hores</string>
+    <string name="item_is_selected">%1$s seleccionat</string>
+    <string name="max_error">Si us plau introdueixi un número més petit o igual a %1$s</string>
+    <string name="min_error">Si us plau introdueixi un número més gran o igual a %1$s</string>
+    <string name="min_max_error">Si us plau introdueixi un número entre %1$s i %2$s</string>
+    <string name="minute_picker_description">Slider de minuts circular</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minuts</string>
+    <string name="month_c">MES</string>
+    <string name="monthly">Mensual</string>
+    <string name="no_results_found">Cap resultat trobat</string>
+    <string name="number_delete">Esborrar</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Cancel·lar</string>
+    <string name="picker_set">Acceptar</string>
+    <string name="recurrence_end_continously">Per sempre</string>
+    <string name="recurrence_end_count_label">Un número de vegades</string>
+    <string name="recurrence_end_date">Fins <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Fins una data</string>
+    <string name="recurrence_month_pattern_by_day">el mateix dia de cada mes</string>
+    <string name="save_label">Fet</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string name="searchview_description_clear">Esborrar</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">segons</string>
+    <string name="select_day">Seleccioni mes i any</string>
+    <string name="select_hours">Seleccionar les hores</string>
+    <string name="select_minutes">Seleccionar els minuts</string>
+    <string name="select_year">Seleccioni any</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Esborrar</string>
+    <string name="year_c">ANY</string>
+    <string name="year_picker_description">Llista d\'anys</string>
+    <string name="yearly_plain">Anual</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="recurrence_freq">
+        <item>Toutes les heures</item>
+        <item>Tous les jours</item>
+        <item>Toutes les semaines</item>
+        <item>Tous les mois</item>
+        <item>Tous les ans</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>chaque premier vendredi</item>
+        <item>chaque second vendredi</item>
+        <item>chaque troisième vendredi</item>
+        <item>chaque quatrième vendredi</item>
+        <item>chaque dernier vendredi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>chaque premier lundi</item>
+        <item>chaque second lundi</item>
+        <item>chaque troisième lundi</item>
+        <item>chaque quatrième lundi</item>
+        <item>chaque dernier lundi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>chaque premier samedi</item>
+        <item>chaque second samedi</item>
+        <item>chaque troisième samedi</item>
+        <item>chaque quatrième samedi</item>
+        <item>chaque dernier samedi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>chaque premier dimanche</item>
+        <item>chaque second dimanche</item>
+        <item>chaque troisième dimanche</item>
+        <item>chaque quatrième dimanche</item>
+        <item>chaque dernier dimanche</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>chaque premier jeudi</item>
+        <item>chaque second jeudi</item>
+        <item>chaque troisième jeudi</item>
+        <item>chaque quatrième jeudi</item>
+        <item>chaque dernier jeudi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>chaque premier mardi</item>
+        <item>chaque second mardi</item>
+        <item>chaque troisième mardi</item>
+        <item>chaque quatrième mardi</item>
+        <item>chaque dernier mardi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>chaque premier mercredi</item>
+        <item>chaque second mercredi</item>
+        <item>chaque troisième mercredi</item>
+        <item>chaque quatrième mercredi</item>
+        <item>chaque dernier mercredi</item>
+    </string-array>
+    <plurals name="daily">
+        <item quantity="one">Quotidien</item>
+        <item quantity="other">Tous les <ns1:g id="number">%d</ns1:g> jours</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; pour une fois</item>
+        <item quantity="other">; pour <ns1:g id="number">%d</ns1:g> fois</item>
+    </plurals>
+    <plurals name="monthly">
+        <item quantity="one">Mensuel <ns1:g id="days_of_month">%2$s</ns1:g></item>
+        <item quantity="other">Tous les <ns1:g id="number">%1$d</ns1:g> mois <ns1:g id="days_of_month">%2$s</ns1:g></item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Pour <ns1:g id="event_count">%d</ns1:g> événement</item>
+        <item quantity="other">Pour <ns1:g id="event_count">%d</ns1:g> événements</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tous les <ns1:g id="count">%d</ns1:g> jour</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tous les <ns1:g id="count">%d</ns1:g> jours</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tous les <ns1:g id="count">%d</ns1:g> mois</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tous les <ns1:g id="count">%d</ns1:g> mois</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Toutes les <ns1:g id="count">%d</ns1:g> semaine</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Toutes les <ns1:g id="count">%d</ns1:g> semaines</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Toutes les <ns1:g id="count">%d</ns1:g> année</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Toutes les <ns1:g id="count">%d</ns1:g> années</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Hebdomadaire le <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Toutes les <ns1:g id="number">%1$d</ns1:g> semaines le <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <plurals name="yearly_plain">
+        <item quantity="one">Annuel <ns1:g id="days_of_month">%2$s</ns1:g></item>
+        <item quantity="other">Tous les <ns1:g id="number">%1$d</ns1:g> ans <ns1:g id="days_of_month">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">modifier la date de fin</string>
+    <string name="day_c">JOUR</string>
+    <string name="day_picker_description">Grille mensuelle</string>
+    <string name="deleted_key">%1$s effacé</string>
+    <string name="done_label">Fini</string>
+    <string name="endByDate">; jusqu\'à <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Tous les jours de semaine (Lun\u2013Ven)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Nom du pays</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Slider d\'heures circulaire</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">heures</string>
+    <string name="item_is_selected">%1$s choisi</string>
+    <string name="max_error">S\'il vous plaît, veuillez indiquer un nombre plus petit ou égal à %1$s</string>
+    <string name="max_time_error">L\'heure saisie est trop loin dans le futur</string>
+    <string name="min_error">S\'il vous plaît, veuillez indiquer un nombre plus grand ou égal à %1$s</string>
+    <string name="min_max_error">S\'il vous plaît, veuillez indiquer un nombre entre %1$s et %2$s</string>
+    <string name="min_time_error">L\'heure saisie est trop loin dans le passé</string>
+    <string name="minute_picker_description">Slider de minutes circulaire</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minutes</string>
+    <string name="month_c">MOIS</string>
+    <string name="monthly">Mensuel</string>
+    <string name="no_results_found">Aucun résultat trouvé</string>
+    <string name="number_delete">Effacer</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestine</string>
+    <string name="picker_cancel">Annuler</string>
+    <string name="picker_set">OK</string>
+    <string name="recurrence_end_continously">Toujours</string>
+    <string name="recurrence_end_count_label">Pour un nombre d\'événements</string>
+    <string name="recurrence_end_date">Jusqu\'au <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Jusqu\'à une date</string>
+    <string name="recurrence_month_pattern_by_day">le même jour tous les mois</string>
+    <string name="save_label">Fini</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="searchview_description_clear">Effacer</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">secondes</string>
+    <string name="select_day">Choisir le mois et le jour</string>
+    <string name="select_hours">Choisir les heures</string>
+    <string name="select_minutes">Choisir les minutes</string>
+    <string name="select_year">Choisir l\'année</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="switch_off">OFF</string>
+    <string name="switch_on">ON</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Effacer</string>
+    <string name="year_c">ANNÉE</string>
+    <string name="year_picker_description">Liste des années</string>
+    <string name="yearly_plain">Annuel</string>
+</resources>
