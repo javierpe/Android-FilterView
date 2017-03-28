@@ -2,6 +2,24 @@
 
 Build a simple filter view with customizable controls.
 
+# Download from Gradle
+
+1. Add it in your root build.gradle at the end of repositories:
+```
+allprojects {
+  repositories {
+    ...
+    maven { url 'https://jitpack.io' }
+    }
+} 
+```
+2. Add the dependency
+``` 	
+dependencies {
+  compile 'com.github.FranciscoJavierPRamos:Android-FilterView:-SNAPSHOT'
+}
+```
+
 # Usage
 
 * Create a section
