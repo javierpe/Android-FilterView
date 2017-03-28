@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="backup_country_names">
+        <item>"Sint Maarten"</item>
+        <item>"Caribbean Netherlands"</item>
+        <item>"Curaçao"</item>
+        <item>"South Sudan"</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>OPAKOVAT PO HODINĚ</item>
+        <item>OPAKOVAT DENNĚ</item>
+        <item>OPAKOVAT TÝDNĚ</item>
+        <item>OPAKOVAT MĚSÍČNĚ</item>
+        <item>OPAKOVAT ROČNĚ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>každý první pátek</item>
+        <item>každý druhý pátek</item>
+        <item>každý třetí pátek</item>
+        <item>každý čtvrtý pátek</item>
+        <item>každý poslední pátek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>každé první pondělí</item>
+        <item>každé druhé pondělí</item>
+        <item>každé třetí pondělí</item>
+        <item>každé čtvrté pondělí</item>
+        <item>každé poslední pondělí</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>každou první sobotu</item>
+        <item>každou druhou sobotu</item>
+        <item>každou třetí sobotu</item>
+        <item>každou čtvrtou sobotu</item>
+        <item>každou poslední sobotu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>každou první neděli</item>
+        <item>každou druhou neděli</item>
+        <item>každou třetí neděli</item>
+        <item>každou čtvrtou neděli</item>
+        <item>každou poslední neděli</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>každý první čtvrtek</item>
+        <item>každý druhý čtvrtek</item>
+        <item>každý třetí čtvrtek</item>
+        <item>každý čtvrtý čtvrtek</item>
+        <item>každý poslední čtvrtek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>každé první úterý</item>
+        <item>každé druhé úterý</item>
+        <item>každé třetí úterý</item>
+        <item>každé čtvrté úterý</item>
+        <item>každé poslední úterý</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>každou první středu</item>
+        <item>každou druhou středu</item>
+        <item>každou třetí středu</item>
+        <item>každou čtvrtou středu</item>
+        <item>každou poslední středu</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+
+        <!-- Australia -->
+        <item>"Středoaustralský čas - NT"</item>
+        <item>"Středoaustralský čas - SA"</item>
+        <item>"Východoaustralský čas - QLD"</item>
+        <item>"Východoaustralský čas - NSW"</item>
+
+        <!-- Canada -->
+        <item>"Horský standardní - Dawson Creek"</item>
+        <item>"Centrální standardní - Saskat…"</item>
+        <item>"Východní standardní - Atikokan"</item>
+        <item>"Atlantický standardní - Quebec"</item>
+
+        <!-- US -->
+        <item>"Hawajsko-Aleutský - Hawaii"</item>
+        <item>"Hawajsko-Aleutský - Alaska"</item>
+        <item>"Pacifický standardní - Metlak…"</item>
+        <item>"Horský standardní - Arizona"</item>
+
+        <!-- Mexico -->
+        <item>"Pacifický - Baja California"</item>
+        <item>"Horský - Chihuahua"</item>
+        <item>"Centrální - Tamaulipas"</item>
+        <item>"Horský - Sonora"</item>
+
+        <!-- Other countries with missing or undesirable labels from the framework -->
+        <item>"Východoafrický čas"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Východoevropský čas"</item>
+        <item>"Kaliningrad Time"</item>
+
+        <!-- Brazil -->
+        <!-- Non DST version of Amazon Standard Time -->
+        <item>"Amazon - Rondônia"</item>
+        <!-- Non DST version of Brasilia Standard Time -->
+        <item>"Brasilia - Pará"</item>
+    </string-array>
+    <plurals name="daily">
+        <item quantity="one">Denně</item>
+        <item quantity="few">Každé <ns1:g id="number">%d</ns1:g> dny</item>
+        <item quantity="other">Každých <ns1:g id="number">%d</ns1:g> dnů</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; jednou</item>
+        <item quantity="few">; <ns1:g id="number">%d</ns1:g> krát</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> krát</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Opakovat <ns1:g id="event_count">%d</ns1:g> událost</item>
+        <item quantity="few">Opakovat <ns1:g id="event_count">%d</ns1:g> události</item>
+        <item quantity="other">Opakovat <ns1:g id="event_count">%d</ns1:g> událostí</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Týdně <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="few">Každé <ns1:g id="number">%1$d</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Každé <ns1:g id="number">%1$d</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">změnit do</string>
+    <string name="day_c">DEN</string>
+    <string name="day_picker_description">Výběr dnu v měsíci</string>
+    <string name="deleted_key">%1$s smazáno</string>
+    <string name="done_label">Hotovo</string>
+    <string name="endByDate">; do <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Každý pracovní den (Po\u2013Pá)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Napište název země</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Kruhový výběr hodiny</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hodin</string>
+    <string name="item_is_selected">%1$s vybráno</string>
+    <string name="max_error">Vložte prosím číslo menší nebo rovno %1$s</string>
+    <string name="min_error">Vložte prosím číslo větší nebo rovno %1$s</string>
+    <string name="min_max_error">Vložte prosím číslo v rozmezí %1$s a %2$s</string>
+    <string name="minute_picker_description">Kruhový výběr minuty</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minut</string>
+    <string name="month_c">MĚSÍC</string>
+    <string name="monthly">Měsíčně</string>
+    <string name="no_results_found">Nenalezeno</string>
+    <string name="number_delete">Smazat</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Zrušit</string>
+    <string name="picker_set">Potvrdit</string>
+    <string name="recurrence_end_continously">Navždy</string>
+    <string name="recurrence_end_count_label">Pouze několikrát</string>
+    <string name="recurrence_end_date">Do <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Do data</string>
+    <string name="recurrence_month_pattern_by_day">stejný den každý měsíc</string>
+    <string name="save_label">Hotovo</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="searchview_description_clear">Vymazat</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">sekund</string>
+    <string name="select_day">Vyber měsíc a den</string>
+    <string name="select_hours">Vyberte hodinu</string>
+    <string name="select_minutes">Vyberte minutu</string>
+    <string name="select_year">Vyber rok</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switch_off">VYPNUTO</string>
+    <string name="switch_on">ZAPNUTO</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Smazat</string>
+    <string name="year_c">ROK</string>
+    <string name="year_picker_description">Seznam roků</string>
+    <string name="yearly_plain">Ročně</string>
+</resources>

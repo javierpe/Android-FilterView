@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 54,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 55,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 55,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 54,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/values-w270dp-h560dp-v13/values-w270dp-h560dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 54,
+                        "endOffset": 280
+                    }
+                }
+            }
+        ]
+    }
+]

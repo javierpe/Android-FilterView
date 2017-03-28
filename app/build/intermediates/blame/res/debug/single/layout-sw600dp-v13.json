@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/calendar_date_picker_dialog.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-v13/calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_text.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-v13/three_keys_view_text.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_right_drawable.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-v13/three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-v13/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/three_keys_view_leftright.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/layout-sw600dp-v13/three_keys_view_leftright.xml"
+    }
+]

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainContainer"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <FrameLayout
+        android:id="@+id/toolbar"
+        android:background="#FFFFFF"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:gravity="center|top">
+
+        <ImageView
+            android:id="@+id/imgCloseIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="12dp"
+            android:tint="#000"
+            android:src="@drawable/ic_window_close_white_24dp"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+
+        <TextView
+            android:id="@+id/lbTitle"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center|right"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:padding="12dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="APLICAR"/>
+
+    </FrameLayout>
+
+    <View
+        android:id="@+id/topDivisor"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:alpha="0.2"
+        android:background="#FFF"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/sections"
+        android:overScrollMode="never"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

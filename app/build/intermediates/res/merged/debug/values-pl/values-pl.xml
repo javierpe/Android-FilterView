@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="daily">
+        <item quantity="one">Raz dziennie</item>
+        <item quantity="other">Co <ns1:g id="number">%d</ns1:g> dni</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; jeden raz</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> razy</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Co <ns1:g id="event_count">%d</ns1:g> wystąpienie</item>
+        <item quantity="other">Co <ns1:g id="event_count">%d</ns1:g> wystapień</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Co <ns1:g id="count">%d</ns1:g> dzień</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Co <ns1:g id="count">%d</ns1:g> dni</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Co <ns1:g id="count">%d</ns1:g> miesiąc</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Co <ns1:g id="count">%d</ns1:g> miesięcy</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Co <ns1:g id="count">%d</ns1:g> tydzień</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Co <ns1:g id="count">%d</ns1:g> tygodni</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Co <ns1:g id="count">%d</ns1:g> rok</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Co <ns1:g id="count">%d</ns1:g> lat</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Co tydzień w <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Co <ns1:g id="number">%1$d</ns1:g> tygodni w <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">zmień datę końcową</string>
+    <string name="day_c">DZIEŃ</string>
+    <string name="day_picker_description">Miesięczna siatka dni</string>
+    <string name="deleted_key">%1$s został usunięty</string>
+    <string name="done_label">Gotowe</string>
+    <string name="endByDate">; until <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"W dni robocze (Pon\u2013Pią)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Wpisz nazwę kraju</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Okrągły suwak godzinowy</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">godzin</string>
+    <string name="item_is_selected">%1$s został wybrany</string>
+    <string name="max_error">Proszę wpisz liczbę równą bądź mniejszą od %1$s</string>
+    <string name="min_error">Proszę wpisz liczbę równą bądź większą od %1$s</string>
+    <string name="min_max_error">Proszę wpisz liczbę z zakresu od %1$s do %2$s</string>
+    <string name="minute_picker_description">Okrągły suwak minutowy</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minut</string>
+    <string name="month_c">MIESIĄĆ</string>
+    <string name="monthly">Miesięcznie</string>
+    <string name="no_results_found">Nie znaleziono wyników</string>
+    <string name="number_delete">Usuń</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestyna</string>
+    <string name="picker_cancel">Anuluj</string>
+    <string name="picker_set">OK</string>
+    <string name="recurrence_end_continously">Bez końca</string>
+    <string name="recurrence_end_count_label">Do wybranej ilości wystąpień</string>
+    <string name="recurrence_end_date">Until <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Do daty</string>
+    <string name="recurrence_month_pattern_by_day">tego samego dnia co miesiąc</string>
+    <string name="save_label">Gotowe</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string name="searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">sekund</string>
+    <string name="select_day">Wybierz miesiąc i dzień</string>
+    <string name="select_hours">Wybierz godziny</string>
+    <string name="select_minutes">Wybierz minuty</string>
+    <string name="select_year">Wybierz rok</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switch_off">WYŁ</string>
+    <string name="switch_on">WŁ</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="timer_delete">Usuń</string>
+    <string name="year_c">ROK</string>
+    <string name="year_picker_description">Lista lat</string>
+    <string name="yearly_plain">Rocznie</string>
+</resources>

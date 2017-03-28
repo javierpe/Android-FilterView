@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp">
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/btSingleButton"
+        android:layout_gravity="center"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        app:fb_iconPaddingTop="14dp"
+        app:fb_text=""
+        app:fb_borderWidth="2dp"
+        app:fb_radius="50dp"/>
+
+    <TextView
+        android:id="@+id/lbTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:textColor="#000"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Organización"/>
+
+</LinearLayout>

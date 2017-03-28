@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/button_background_light.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/button_background_light.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/button_background_dark.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/button_background_dark.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_selected.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/bp_material_button_background.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/bp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/key_background_light.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/key_background_light.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/usuario/.android/build-cache/c37f64695942e56e8dfcfaf8f6f46dc50cb8667b/output/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/key_background_dark.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/drawable-v21/key_background_dark.xml"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

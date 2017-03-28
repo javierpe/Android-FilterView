@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.adroitandroid.chipcloud.Chip
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/material_chip_height"
+    android:text="Chip Test"
+    android:textSize="@dimen/default_textsize"
+    android:textColor="@color/chip"
+    android:minWidth="50dp"
+    android:gravity="center"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:background="@drawable/chip"/>
