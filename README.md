@@ -39,7 +39,7 @@ new FilterView.Builder(this)
                     }
                 }).show();
 ```
-Call to ```java show(); ``` method to display FilterView and ```java setOnFilterViewResultListener(...) ``` to return JSONArray with data filtered.
+Call to ```show(); ``` method to display FilterView and ```setOnFilterViewResultListener(...) ``` to return JSONArray with data filtered.
 
 # Sections
 
