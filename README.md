@@ -1,6 +1,6 @@
 # Android FilterView
 
-Build a simple Filter view with customizable controls.
+Build a simple filter view with customizable controls.
 
 # Usage
 
