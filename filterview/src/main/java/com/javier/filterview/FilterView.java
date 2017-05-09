@@ -180,6 +180,9 @@ public class FilterView extends LinearLayout{
 
     }
 
+    /**
+     * Trigger cancel view
+     */
     private void cancelView(){
         if(getOnFilterCanceled() != null){
             getOnFilterCanceled().onCancel();
