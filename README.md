@@ -1,4 +1,4 @@
-# Android FilterView 
+# Android FilterView
 [![](https://jitpack.io/v/FranciscoJavierPRamos/Android-FilterView.svg)](https://jitpack.io/#FranciscoJavierPRamos/Android-FilterView)
 
 Build a simple filter view with customizable controls.
@@ -17,7 +17,7 @@ allprojects {
 2. Add the dependency
 ``` 	
 dependencies {
-  compile 'com.github.FranciscoJavierPRamos:Android-FilterView:1.0.1'
+  compile 'com.github.FranciscoJavierPRamos:Android-FilterView:1.0.2'
 }
 ```
 
