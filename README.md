@@ -17,7 +17,7 @@ allprojects {
 2. Add the dependency
 ``` 	
 dependencies {
-  compile 'com.github.FranciscoJavierPRamos:Android-FilterView:1.0.2'
+  compile 'com.github.FranciscoJavierPRamos:Android-FilterView:1.0.4'
 }
 ```
 
