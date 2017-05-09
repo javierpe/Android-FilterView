@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_cash_usd_black_36dp.png",
-        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_cash_usd_black_36dp.png"
-    },
-    {
         "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_window_close_white_48dp.png",
         "source": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/filterview/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_window_close_white_48dp.png"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_cash_usd_black_36dp.png",
+        "source": "/Users/usuario/Downloads/omim-master/app/filterview/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_cash_usd_black_36dp.png"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_account_black_36dp.png",
@@ -16,12 +16,12 @@
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/usuario/Downloads/omim-master/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",

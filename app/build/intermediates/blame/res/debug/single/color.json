@@ -28,12 +28,12 @@
         "source": "/Users/usuario/.android/build-cache/55b1537ce8b3ba86e9d0d318d4119dfec42b2496/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/color/done_text_color.xml",
-        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/color/done_text_color.xml"
-    },
-    {
         "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/color/date_picker_selector.xml",
         "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/color/done_text_color.xml",
+        "source": "/Users/usuario/.android/build-cache/fd352e26980e1e17007f1f3c3fec39393a4d95fd/output/res/color/done_text_color.xml"
     },
     {
         "merged": "/Users/usuario/StudioProjects/Libraries/FilterView/Github/app/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",

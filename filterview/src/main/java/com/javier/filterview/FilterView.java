@@ -43,6 +43,16 @@ public class FilterView extends LinearLayout{
     private LinearLayout mainConteiner;
     private FrameLayout toolbar;
 
+    private OnFilterCanceled onFilterCanceled;
+
+    protected OnFilterCanceled getOnFilterCanceled() {
+        return onFilterCanceled;
+    }
+
+    public void setOnFilterCanceled(OnFilterCanceled onFilterCanceled) {
+        this.onFilterCanceled = onFilterCanceled;
+    }
+
     private boolean toolbarVisible;
 
     private Dialog dialog;
@@ -140,7 +150,7 @@ public class FilterView extends LinearLayout{
         imgCloseIcon.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                dialog.cancel();
+                cancelView();
             }
         });
 
@@ -160,7 +170,7 @@ public class FilterView extends LinearLayout{
                     listener.onResult(data);
                 }
 
-                dialog.cancel();
+                cancelView();
             }
         });
 
@@ -170,10 +180,16 @@ public class FilterView extends LinearLayout{
 
     }
 
-    public LinearLayout getView(){
-        if(imgCloseIcon != null){
-            imgCloseIcon.setVisibility(GONE);
+    private void cancelView(){
+        if(getOnFilterCanceled() != null){
+            getOnFilterCanceled().onCancel();
+            if(dialog != null){
+                dialog.cancel();
+            }
         }
+    }
+
+    public LinearLayout getView(){
         return this;
     }
 
