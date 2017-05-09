@@ -154,6 +154,7 @@ public class FilterView extends LinearLayout{
             }
         });
 
+
         lbTitle.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
