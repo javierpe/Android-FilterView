@@ -153,7 +153,7 @@ public class FilterView extends LinearLayout{
                 cancelView();
             }
         });
-        
+
         lbTitle.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
