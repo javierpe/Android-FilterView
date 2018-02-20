@@ -3,6 +3,12 @@
 
 Build a simple filter view with customizable controls.
 
+<p align="center">
+  <img src="Screenshot_2018-02-20-09-48-41.png" width="350"/>
+  <img src="Screenshot_2018-02-20-09-49-24.png" width="350"/>
+</p>
+
+
 # Download from Gradle
 
 1. Add it in your root build.gradle at the end of repositories:
